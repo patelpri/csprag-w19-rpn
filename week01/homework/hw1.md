@@ -1,5 +1,5 @@
 ##EECS 201 HW 1
-uniqname: {{patelpri}}
+uniqname: patelpri
 ## Question 1
 ``` 1 Guest Additions are device drivers and system applications that make operating system perform better, they are usually meant to install inside a virtual machine. Enabling Guest Additions made a pop with an installation option of VBox_Gas6.0.0.```
 ## Question 2
