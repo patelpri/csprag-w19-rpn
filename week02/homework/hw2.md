@@ -468,12 +468,9 @@ uniqname: patelpri
     </script>
 
   </body>
-<<<<<<< HEAD
+
 </html>```
-=======
-</html>
-```
->>>>>>> 1797a39096b53098278da050771ad17a4e2bc86d
+
 
 ## Question 2
 ``` git diff ```
@@ -519,11 +516,8 @@ index ee91430..04f6a07 100644
 ``` GNU Emacs ```
 
 ## Question 6
-<<<<<<< HEAD
+
 ``` "-nw" makes the editor more inline with the base editor used by linus, but removing it opens emacs with GUI.  ```
-=======
-``` "-nw" visually makes the editor more like the base editor used by linus, but removing it opens emacs with a GUI.  ```
->>>>>>> 1797a39096b53098278da050771ad17a4e2bc86d
 
 ## Question 7
 ``` GIT_EDITOR takes priority ```
