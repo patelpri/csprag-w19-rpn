@@ -2,7 +2,8 @@
 uniqname: patelpri
 
 ## Question 1
-```<html>
+``` 1
+<html>
   <head>
     <title>Learn Git Version Control using Interactive Browser-Based Labs | Katacoda</title>
     <meta charset="utf-8">
@@ -469,14 +470,18 @@ uniqname: patelpri
 
   </body>
 
-</html>```
+</html>
+```
 
 
 ## Question 2
-``` git diff ```
+``` 2
+git diff
+```
 
 ## Question 3
-``` commit eb5e483ebd7cec42c4bf9a88e20299a8617d2c27
+``` 3
+commit eb5e483ebd7cec42c4bf9a88e20299a8617d2c27
 Author: Priyank Patel <patelpri@umich.edu>
 Date:   Wed Jan 30 20:55:19 2019 -0500
 
@@ -510,14 +515,22 @@ index ee91430..04f6a07 100644
 ```
 
 ## Question 4
-``` GNU nano 2.9.3 ```
+``` 4
+GNU nano 2.9.3
+```
 
 ## Question 5
-``` GNU Emacs ```
+``` 5
+GNU Emacs
+```
 
 ## Question 6
 
-``` "-nw" makes the editor more inline with the base editor used by linus, but removing it opens emacs with GUI.  ```
+``` 6
+"-nw" makes the editor more inline with the base editor used by linus, but removing it opens emacs with GUI.
+```
 
 ## Question 7
-``` GIT_EDITOR takes priority ```
+``` 7
+GIT_EDITOR takes priority
+```
